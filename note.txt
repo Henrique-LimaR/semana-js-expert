@@ -1,0 +1,8 @@
+* viking rakerzão
+* terminei_só_falta_testar
+
+views -> toda iteração com a DOM (manipular o html)
+
+index -> factory -> controller -> view
+
+service -> worker
