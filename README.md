@@ -1,7 +1,8 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
 Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o projeto desenvolvido durante o evento
-## Pre-reqs
+### Pre-reqs
+O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o Windows Subsystem Linux pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
 
 ### Este projeto desenvolvido com:
 - Node.js v19.6
